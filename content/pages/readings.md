@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for the course along
+  with information on recommended books.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
